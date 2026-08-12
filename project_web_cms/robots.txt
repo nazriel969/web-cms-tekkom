@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /project_web_cms/admin/
+Disallow: /project_web_cms/config/
+Disallow: /project_web_cms/assets/uploads/
+
+Allow: /project_web_cms/
+Allow: /project_web_cms/index.php
+Allow: /project_web_cms/post.php
+Allow: /project_web_cms/profil.php
+Allow: /project_web_cms/galeri.php
+Allow: /project_web_cms/guru.php
+Allow: /project_web_cms/sitemap.php
+
+Sitemap: /project_web_cms/sitemap.php
