@@ -1,0 +1,22 @@
+{
+    "site_name": "SMA Negeri 1 Contoh",
+    "site_tagline": "Unggul dalam Prestasi, Berakhlak Mulia",
+    "nav_menu": [
+        { "label": "Beranda",      "url": "index.php" },
+        { "label": "Profil",       "url": "profil.php" },
+        { "label": "Berita",       "url": "berita.php" },
+        { "label": "Pengumuman",   "url": "pengumuman.php" },
+        { "label": "Galeri",       "url": "galeri.php" },
+        { "label": "Kontak",       "url": "kontak.php" }
+    ],
+    "social_media": [
+        { "platform": "Facebook",  "icon": "facebook", "url": "https://facebook.com/sekolah" },
+        { "platform": "Instagram", "icon": "instagram","url": "https://instagram.com/sekolah" },
+        { "platform": "YouTube",   "icon": "youtube",  "url": "https://youtube.com/sekolah" }
+    ],
+    "footer": {
+        "copyright": "© 2024 SMA Negeri 1 Contoh. Semua Hak Dilindungi.",
+        "tagline":   "Mendidik Generasi Bangsa yang Cerdas dan Berkarakter.",
+        "address":   "Jl. Pendidikan No. 1, Kota Contoh, Provinsi Contoh 12345"
+    }
+}
